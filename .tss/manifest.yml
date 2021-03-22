@@ -1,0 +1,7 @@
+applications:
+- framework: Node
+  guid: b16b4938-f422-49bb-bf4d-033cd6eae0a7
+  language: Node`
+  name: Nodejs-Acme-template
+  service: [
+    ]
